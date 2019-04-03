@@ -2,761 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13af3f05-0a16-466a-adc3-42e08380577f" name="Default Changelist" comment="s">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/banner/2019040220510446650.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/banner/2019040222031110577.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/contact/2019033117271935692.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/contact/2019040112552822745.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/contact/2019040112565406783.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/contact/2019040112572958464.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/feature/2019040114132823055.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/feature/2019040114143982142.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/feature/2019040114153807941.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/footer/2019040220494183050.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/cover/2019040115312226458.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/cover/2019040115312905224.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/cover/2019040115313685005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/cover/2019040115372354675.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/cover/2019040115380693509.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/cover/2019040115383996979.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/cover/2019040115385658195.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/cover/2019040115392755921.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/cover/2019040115394472986.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/cover/2019040115400490872.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/cover/2019040115403140757.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/cover/2019040117170810841.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040115400805181.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040115400864597.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040115400887956.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040115403502168.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040115403562530.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040115403590263.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040115403590292.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040116470914502.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040116470925357.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040116470938788.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040116470962082.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040117113520225.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040117113552852.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040117113562517.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040117113583630.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040117134603905.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019040117171186263.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/goods/video/2019033016120185950.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C:/hwx/header/2019040220493880845.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/config/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/config/InterceptorConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/config/MyCommentGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/config/MyInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/config/MybatisPlus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/AboutController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/BannerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/CategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/CommentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/ContactController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/FeatureController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/GoodsController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/HeaderFooterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/ManagerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/ManagerOperationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/RoleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/SupCategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/UserIpController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/UtilController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/VerificationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/About.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/Banner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/Feature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/Goods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/HeaderFooter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/ManagerOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/Result.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/ResultEnum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/SupCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/UserIp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/vo/CategoryVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/vo/GoodsVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/mapper/AboutMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/mapper/BannerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/mapper/CategoryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/mapper/CommentMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/mapper/ContactMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/mapper/FeatureMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/mapper/GoodsMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/mapper/HeaderFooterMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/mapper/ManagerMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/mapper/ManagerOperationMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/mapper/RoleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/mapper/SupCategoryMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/mapper/UserIpMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/oneUtils/ArrayUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/oneUtils/CheckUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/oneUtils/FileUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/oneUtils/IpUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/oneUtils/ManagerOperationUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/oneUtils/MysqlGenerator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/oneUtils/RestTemplateUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/oneUtils/ResultUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/oneUtils/TimeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/oneUtils/VerificationCodeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/AboutService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/BannerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/CommentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/ContactService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/FeatureService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/GoodsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/HeaderFooterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/ManagerOperationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/ManagerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/RoleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/SupCategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/UserIpService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/AboutServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/BannerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/CommentServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/ContactServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/FeatureServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/GoodsServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/HeaderFooterServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/ManagerOperationServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/ManagerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/RoleServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/SupCategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/UserIpServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/AboutMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/BannerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/CategoryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/CommentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ContactMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/FeatureMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/GoodsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/HeaderFooterMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ManagerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/ManagerOperationMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/SupCategoryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/UserIpMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/css/xadmin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/fonts/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/aiwrap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/firm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/xadmin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/js/xcity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/css/layui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/css/layui.mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/css/modules/code.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/css/modules/layer/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/css/modules/layer/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/font/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/font/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/font/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/font/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/17.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/19.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/21.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/22.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/23.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/24.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/25.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/26.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/27.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/28.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/29.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/30.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/31.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/32.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/33.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/34.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/35.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/36.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/37.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/38.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/39.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/40.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/41.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/42.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/43.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/44.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/45.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/46.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/47.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/48.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/49.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/51.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/52.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/53.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/54.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/55.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/56.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/57.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/58.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/59.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/60.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/61.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/62.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/63.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/64.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/65.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/66.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/67.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/68.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/69.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/70.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/71.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/images/face/9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/flow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/laydate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/layedit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/laypage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/laytpl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/mobile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/rate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/lay/modules/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/layui.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/lib/layui/layui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/oneUtils/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/viney/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/viney/bgIndex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/viney/header-footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/viney/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/viney/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/viney/product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/viney/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/wangEditor/wangEditor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/wangEditor/wangEditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/about/about-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/about/about-add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/about/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/about/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/banner/banner-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/banner/banner-add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/banner/banner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/banner/banner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/category/category-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/category/category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/category/category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/comment/comment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/comment/comment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/contact/contact-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/contact/contact-add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/contact/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/contact/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/feature/feature-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/feature/feature-add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/feature/feature.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/feature/feature.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/goods/goods-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/goods/goods-add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/goods/goods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/goods/goods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/headerFooter/headerFooter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/headerFooter/headerFooter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/manager/manager-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/manager/manager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/manager/manager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/operationNote/operationNote.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/operationNote/operationNote.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/supCategory/supCategory-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/supCategory/supCategory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/supCategory/supCategory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/vlr/vlr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/vlr/vlr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/admin/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/config/CorsConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/config/InterceptorConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/config/MyCommentGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/config/MyInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/config/MybatisPlus.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/AboutController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/BannerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/CategoryController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/CommentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/ContactController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/FeatureController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/GoodsController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/HeaderFooterController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/ManagerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/ManagerOperationController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/RoleController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/SupCategoryController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/UserIpController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/UtilController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/controller/VerificationController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/About.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/Banner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/Category.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/Comment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/Contact.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/Feature.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/Goods.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/HeaderFooter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/Manager.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/ManagerOperation.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/Result.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/ResultEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/SupCategory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/UserIp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/vo/CategoryVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/entity/vo/GoodsVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/mapper/AboutMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/mapper/BannerMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/mapper/CategoryMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/mapper/CommentMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/mapper/ContactMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/mapper/FeatureMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/mapper/GoodsMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/mapper/HeaderFooterMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/mapper/ManagerMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/mapper/ManagerOperationMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/mapper/RoleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/mapper/SupCategoryMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/mapper/UserIpMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/oneUtils/ArrayUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/oneUtils/CheckUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/oneUtils/FileUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/oneUtils/IpUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/oneUtils/ManagerOperationUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/oneUtils/MysqlGenerator$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/oneUtils/MysqlGenerator$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/oneUtils/MysqlGenerator$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/oneUtils/MysqlGenerator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/oneUtils/RestTemplateUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/oneUtils/ResultUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/oneUtils/TimeUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/oneUtils/VerificationCodeUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/AboutService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/BannerService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/CategoryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/CommentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/ContactService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/FeatureService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/GoodsService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/HeaderFooterService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/ManagerOperationService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/ManagerService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/RoleService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/SupCategoryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/UserIpService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/impl/AboutServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/impl/BannerServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/impl/CategoryServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/impl/CommentServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/impl/ContactServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/impl/FeatureServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/impl/GoodsServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/impl/HeaderFooterServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/impl/ManagerOperationServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/impl/ManagerServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/impl/RoleServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/impl/SupCategoryServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/service/impl/UserIpServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/AboutMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/BannerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/CategoryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/CommentMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/ContactMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/FeatureMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/GoodsMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/HeaderFooterMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/ManagerMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/ManagerOperationMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/RoleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/SupCategoryMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mapper/UserIpMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/css/xadmin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/fonts/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/fonts/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/fonts/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/fonts/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/aiwrap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/firm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/xadmin.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/js/xcity.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/css/layui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/css/layui.mobile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/css/modules/code.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/css/modules/laydate/default/laydate.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/css/modules/layer/default/icon-ext.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/css/modules/layer/default/icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/css/modules/layer/default/layer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/css/modules/layer/default/loading-0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/css/modules/layer/default/loading-1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/css/modules/layer/default/loading-2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/font/iconfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/font/iconfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/font/iconfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/font/iconfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/17.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/19.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/21.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/22.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/23.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/24.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/25.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/26.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/27.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/28.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/29.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/30.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/31.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/32.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/33.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/34.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/35.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/36.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/37.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/38.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/39.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/40.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/41.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/42.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/43.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/44.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/45.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/46.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/47.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/48.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/49.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/51.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/52.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/53.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/54.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/55.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/56.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/57.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/58.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/59.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/60.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/61.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/62.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/63.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/64.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/65.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/66.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/67.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/68.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/69.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/70.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/71.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/images/face/9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/colorpicker.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/element.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/flow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/form.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/laydate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/layedit.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/layer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/laypage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/laytpl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/mobile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/rate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/slider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/table.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/tree.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/upload.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/lay/modules/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/layui.all.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/lib/layui/layui.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/oneUtils/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/viney/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/viney/bgIndex.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/viney/header-footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/viney/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/viney/login.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/viney/product.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/viney/shop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/wangEditor/wangEditor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/wangEditor/wangEditor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/about/about-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/about/about-add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/about/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/about/about.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/banner/banner-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/banner/banner-add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/banner/banner.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/banner/banner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/category/category-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/category/category.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/category/category.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/comment/comment.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/comment/comment.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/contact/contact-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/contact/contact-add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/contact/contact.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/contact/contact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/feature/feature-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/feature/feature-add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/feature/feature.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/feature/feature.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/goods/goods-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/goods/goods-add.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/goods/goods.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/goods/goods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/headerFooter/headerFooter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/headerFooter/headerFooter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/manager/manager-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/manager/manager.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/manager/manager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/operationNote/operationNote.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/operationNote/operationNote.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/supCategory/supCategory-add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/supCategory/supCategory.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/supCategory/supCategory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/vlr/vlr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/vlr/vlr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/admin/welcome.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/viney-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/viney-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/css/venobox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/venobox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/banner/banner1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/banner/banner2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/banner/banner3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/banner/shop-sidebar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/blog/blog1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/blog/blog2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/blog/blog3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/blog/blog4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/blog/blog5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/brand/brand1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/brand/brand2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/brand/brand3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/brand/brand4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/brand/brand5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/cart/cart1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/cart/cart2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/category/home1-category-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/category/home1-category-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/category/home1-category-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/category/home1-category-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/category/home1-category-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/icon/slider-left-hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/img/icon/slider-left-hover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/icon/slider-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/img/icon/slider-left.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/icon/slider-right-hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/img/icon/slider-right-hover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/icon/slider-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/img/icon/slider-right.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/logo/logo-footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/logo/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/page-banner/product-banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/page-banner/shop-banner-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/payment/payment-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019033019045777591.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/C:/hwx/goods/cover/2019033019045247592.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019033019045716206.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/C:/hwx/goods/picture/2019033019045791652.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/product/product9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/single-product/large/single-product1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/single-product/large/single-product2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/single-product/large/single-product3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/single-product/large/single-product4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/single-product/large/single-product5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/single-product/large/single-product6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/single-product/small/single-product1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/single-product/small/single-product2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/single-product/small/single-product3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/single-product/small/single-product4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/single-product/small/single-product5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/single-product/small/single-product6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/slider/home1-slider1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/slider/home1-slider2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/testimonial/testimonial1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/testimonial/testimonial2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/img/testimonial/testimonial3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/shop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/single-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/single-product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/hwx/viney/VineyApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/hwx/viney/VineyApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/hwx/viney/VineyApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/responsive.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/css/venobox.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/css/venobox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/banner/banner1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/banner/banner2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/banner/banner3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/banner/shop-sidebar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/blog/blog1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/blog/blog2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/blog/blog3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/blog/blog4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/blog/blog5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/brand/brand1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/brand/brand2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/brand/brand3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/brand/brand4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/brand/brand5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/cart/cart1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/cart/cart2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/category/home1-category-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/category/home1-category-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/category/home1-category-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/category/home1-category-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/category/home1-category-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/icon/slider-left-hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/img/icon/slider-left-hover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/icon/slider-left.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/img/icon/slider-left.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/icon/slider-right-hover.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/img/icon/slider-right-hover.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/icon/slider-right.png" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/img/icon/slider-right.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/logo/logo-footer.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/logo/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/page-banner/product-banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/page-banner/shop-banner-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/payment/payment-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product14.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product15.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product23.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/product/product9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/single-product/large/single-product1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/single-product/large/single-product2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/single-product/large/single-product3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/single-product/large/single-product4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/single-product/large/single-product5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/single-product/large/single-product6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/single-product/small/single-product1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/single-product/small/single-product2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/single-product/small/single-product3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/single-product/small/single-product4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/single-product/small/single-product5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/single-product/small/single-product6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/slider/home1-slider1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/slider/home1-slider2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/testimonial/testimonial1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/testimonial/testimonial2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/img/testimonial/testimonial3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/static/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/static/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/shop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/single-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/single-product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/templates/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/hwx/viney/VineyApplicationTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -771,10 +17,11 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -788,7 +35,7 @@
           <entry key="jpg" value="1" />
           <entry key="js" value="97" />
           <entry key="png" value="4" />
-          <entry key="properties" value="4" />
+          <entry key="properties" value="5" />
           <entry key="xml" value="15" />
           <entry key="yml" value="1" />
         </counts>
@@ -801,7 +48,7 @@
           <entry key="Image" value="6" />
           <entry key="JAVA" value="196" />
           <entry key="JavaScript" value="97" />
-          <entry key="Properties" value="4" />
+          <entry key="Properties" value="5" />
           <entry key="XML" value="16" />
           <entry key="YAML" value="1" />
         </counts>
@@ -813,7 +60,7 @@
           <entry key="html" value="3568" />
           <entry key="java" value="9246" />
           <entry key="js" value="6982" />
-          <entry key="properties" value="20" />
+          <entry key="properties" value="33" />
           <entry key="txt" value="2" />
           <entry key="xml" value="426" />
           <entry key="yml" value="1" />
@@ -826,7 +73,7 @@
           <entry key="JAVA" value="9246" />
           <entry key="JavaScript" value="6969" />
           <entry key="PLAIN_TEXT" value="4" />
-          <entry key="Properties" value="20" />
+          <entry key="Properties" value="33" />
           <entry key="SQL" value="1" />
           <entry key="XML" value="425" />
           <entry key="YAML" value="1" />
@@ -836,15 +83,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/ManagerOperationController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="55" column="14" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/admin/welcome.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -887,11 +125,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/viney/product.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="523">
               <caret line="67" column="49" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="117" lean-forward="true" selection-start-line="3" selection-start-column="117" selection-end-line="3" selection-end-column="117" />
             </state>
           </provider>
         </entry>
@@ -1020,7 +267,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/templates/admin/manager/manager.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/hwx/viney/entity/Manager.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hwx/viney/controller/RoleController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/admin/manager/manager-add.html" />
@@ -1071,6 +317,7 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/single-product.html" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/about.html" />
         <option value="$PROJECT_DIR$/src/main/resources/static/viney/product.js" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -1518,6 +765,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -1693,8 +942,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1789,11 +1036,12 @@
       <workItem from="1553785730056" duration="1132000" />
       <workItem from="1553864612653" duration="111420000" />
       <workItem from="1554285259059" duration="34000" />
+      <workItem from="1554286629388" duration="283000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112586000" />
+    <option name="totallyTimeSpent" value="112869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-109" width="1920" height="1080" extended-state="0" />
@@ -1918,11 +1166,6 @@
         <state relative-caret-position="598">
           <caret line="191" column="59" selection-start-line="191" selection-start-column="59" selection-end-line="191" selection-end-column="59" />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-188" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hwx/viney/service/impl/GoodsServiceImpl.java">
@@ -2215,6 +1458,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
           <caret line="67" column="49" selection-start-line="67" selection-start-column="49" selection-end-line="67" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="117" lean-forward="true" selection-start-line="3" selection-start-column="117" selection-end-line="3" selection-end-column="117" />
         </state>
       </provider>
     </entry>
