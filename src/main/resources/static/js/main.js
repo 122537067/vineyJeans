@@ -45,30 +45,7 @@ $( '.search-box > a' ).on('click', function(e) {
 /*----------------------------
     ** Owl Active **
 ------------------------------ */
-/*----------
-     Hero Slider Active
-------------------------------*/
-$('.hero-slider').owlCarousel({
-    smartSpeed: 1000,
-    nav: true,
-    loop: true,
-    animateOut: 'fadeOut',
-    animateIn: 'fadeIn',
-    autoplay: false,
-    navText: ['prev', 'next'],
-    responsive: {
-        0: {
-            items: 1,
-            autoplay: true
-        },
-        600: {
-            items: 1
-        },
-        1000: {
-            items: 1
-        }
-    }
-})
+
 /*----------
      Testimonial Active
 ------------------------------*/
@@ -349,47 +326,7 @@ $('.product-list-slider-active2').slick({
         }
       ]
 });
-/*----------
-     Hot Deal Slider Active
-------------------------------*/
-$('.count-down-area').slick({
-  slidesToShow: 1,
-  slidesToScroll: 1,
-  arrows: false,
-  fade: true,
-  asNavFor: '.offer-slider'
-});
-$('.offer-slider').slick({
-  slidesToShow: 3,
-  slidesToScroll: 1,
-  asNavFor: '.count-down-area',
-  dots: true,
-  centerMode: true,
-  arrows: false,
-  infinite: true,
-  centerPadding: '0px',
-  focusOnSelect: true,
-  responsive: [
-        {
-          breakpoint: 1024,
-          settings: {
-            slidesToShow: 3,
-          }
-        },
-        {
-          breakpoint: 768,
-          settings: {
-            slidesToShow: 1,
-          }
-        },
-        {
-          breakpoint: 480,
-          settings: {
-            slidesToShow: 1,
-          }
-        }
-      ]
-});   
+
 /*----------
     Brand Slider Active
 ------------------------------*/
@@ -507,49 +444,7 @@ $('.blog-list-slider-active').slick({
         }
       ]
 });
-/*----------------------------------- 
-    Single Product Slide Menu Active 
---------------------------------------*/  
-$('.product-tab-menu').slick({
-		prevArrow: '<i class="fa fa-angle-left"></i>',
-		nextArrow: '<i class="fa fa-angle-right slick-next-btn"></i>',
-        slidesToShow: 4,
-        responsive: [
-            {
-              breakpoint: 1200,
-              settings: {
-                slidesToShow: 3,
-                slidesToScroll: 3
-              }
-            },
-            {
-              breakpoint: 992,
-              settings: {
-                slidesToShow: 4,
-                slidesToScroll: 4
-              }
-            },
-            {
-              breakpoint: 480,
-              settings: {
-                slidesToShow: 3,
-                slidesToScroll: 3
-              }
-            }
-          ]
-	});   
-$('.product-tab-menu a').on('click',function(e){
-      e.preventDefault();
-     
-      var $href = $(this).attr('href');
-     
-      $('.product-tab-menu a').removeClass('active');
-      $(this).addClass('active');
-     
-      $('.single-product-img .tab-pane').removeClass('active show');
-      $('.single-product-img '+ $href ).addClass('active show');
-     
-  })
+
 /*----------------------------------- 
     Count Down Active 
 ----------------------------------*/ 
@@ -664,7 +559,7 @@ $(function() {
 /*------------------------------ 
     Nice Select Active
 ---------------------------------*/
-$('select').niceSelect();
+ $('select').niceSelect();
 /*------------------------------ 
     Toggle Function Active
 ---------------------------------*/   

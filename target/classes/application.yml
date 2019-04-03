@@ -24,6 +24,6 @@ mybatis-plus:
 devtools:
   livereload:
     enabled: true #是否支持livereload
-    port: 8080
+    port: 8082
   restart:
     enabled: true #是否支持热部署

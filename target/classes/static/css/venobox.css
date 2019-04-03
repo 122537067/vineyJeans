@@ -136,6 +136,9 @@
     height: 260px;
 }
 @media (min-width: 768px) {
+    .shop-area{padding-top: 120px;}
+    .single-product-area{padding-top: 120px;}
+    textarea{margin-top:10px;}
     .venoframe, .vbox-inline{
         width: 90%;
         height: 360px;

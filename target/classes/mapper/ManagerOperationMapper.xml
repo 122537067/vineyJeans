@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.hwx.viney.mapper.ManagerOperationMapper">
+
+    <!-- 通用查询映射结果 -->
+    <resultMap id="BaseResultMap" type="com.hwx.viney.entity.ManagerOperation">
+        <id column="id" property="id" />
+        <result column="ip" property="ip" />
+        <result column="operation" property="operation" />
+        <result column="msg" property="msg" />
+        <result column="time" property="time" />
+        <result column="manager_id" property="managerId" />
+        <result column="op_result" property="opResult" />
+    </resultMap>
+
+    <!-- 通用查询结果列 -->
+    <sql id="Base_Column_List">
+        id, ip, operation, msg, time, manager_id AS managerId, op_result AS opResult
+    </sql>
+
+    <!--模糊查询-->
+    <select id="showManagerOperationByParams" resultType="com.hwx.viney.entity.ManagerOperation" parameterType="map">
+        SELECT * FROM _manager_operation where 1=1
+        <if test="paramOp!=null and paramOp != ''">
+            and operation like "%"#{paramOp}"%"
+        </if>
+        <if test="paramRes!=null and paramRes != ''">
+            and op_result like "%"#{paramRes}"%"
+        </if>
+        <if test="paramIp!=null and paramIp != ''">
+            and ip like "%"#{paramIp}"%"
+        </if>
+        <if test="paramManager!=null and paramManager != ''">
+            and manager_id like "%"#{paramManager}"%"
+        </if>
+        order by `time` LIMIT ${page} , ${limit}
+    </select>
+
+    <!--模糊查询数量-->
+    <select id="showManagerOperationCountByParams" resultType="int" parameterType="map">
+        SELECT count(*) FROM _manager_operation where 1=1
+        <if test="paramOp!=null and paramOp != ''">
+            and operation like "%"#{paramOp}"%"
+        </if>
+        <if test="paramRes!=null and paramRes != ''">
+            and op_result like "%"#{paramRes}"%"
+        </if>
+        <if test="paramIp!=null and paramIp != ''">
+            and ip like "%"#{paramIp}"%"
+        </if>
+        <if test="paramManager!=null and paramManager != ''">
+            and manager_id like "%"#{paramManager}"%"
+        </if>
+    </select>
+
+</mapper>
